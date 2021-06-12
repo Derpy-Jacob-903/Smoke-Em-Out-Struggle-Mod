@@ -529,12 +529,16 @@ class Character extends FlxSprite
 				animation.addByPrefix('singLEFTmiss', 'Angry Senpai LEFT NOTE', 24, false);
 				animation.addByPrefix('singRIGHTmiss', 'Angry Senpai RIGHT NOTES', 24, false);
 				animation.addByPrefix('singDOWNmiss', 'Angry Senpai DOWN NOTE', 24, false);
-
+	
 				addOffset('idle');
-				addOffset("singUP", -5, -37);
+				addOffset("singUP", 5, 37);
 				addOffset("singRIGHT");
-				addOffset("singLEFT", -40);
-				addOffset("singDOWN", -14);
+				addOffset("singLEFT", 40);
+				addOffset("singDOWN", 14);
+				addOffset("singUPmiss", 5, 37);
+				addOffset("singRIGHTmiss");
+				addOffset("singLEFTmiss", 40);
+				addOffset("singDOWNmiss", 14);
 
 				playAnim('idle');
 
@@ -554,12 +558,16 @@ class Character extends FlxSprite
 				animation.addByPrefix('singLEFTmiss', 'Angry Senpai LEFT NOTE', 24, false);
 				animation.addByPrefix('singRIGHTmiss', 'Angry Senpai RIGHT NOTE', 24, false);
 				animation.addByPrefix('singDOWNmiss', 'Angry Senpai DOWN NOTE', 24, false);
-
-				addOffset('idle');
-				addOffset("singUP", -5, -37);
-				addOffset("singRIGHT");
-				addOffset("singLEFT", -40);
-				addOffset("singDOWN", -14);
+	
+				addOffset('idle', 50, 200);
+				addOffset("singUP", 55, 237);
+				addOffset("singRIGHT", 50, 200);
+				addOffset("singLEFT", 90, 200);
+				addOffset("singDOWN", 64, 200);
+				addOffset("singUPmiss", 55, 237);
+				addOffset("singRIGHTmiss", 50, 200);
+				addOffset("singLEFTmiss", 90, 200);
+				addOffset("singDOWNmiss", 64, 200);
 
 				playAnim('idle');
 
