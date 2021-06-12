@@ -213,6 +213,8 @@ class PlayState extends MusicBeatState
 		{
 			case 'senpai-angry':
 				iconRPC = 'senpai';
+			case 'senpai-pixel':
+				iconRPC = 'senpai-left'
 			case 'monster-christmas':
 				iconRPC = 'monster';
 			case 'mom-car':
@@ -471,7 +473,7 @@ class PlayState extends MusicBeatState
 						  add(corpse);
 
 					}
-		          case 'fading':
+		          case 'fading | dip':
 		          {
 		                  defaultCamZoom = 0.9;
 						  curStage = 'garAlleyDip';
