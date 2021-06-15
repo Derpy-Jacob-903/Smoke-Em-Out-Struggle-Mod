@@ -18,4 +18,6 @@ garcelloghosty
 bf-pixel
 senpai
 senpai-angry
+senpai-left
+senpai-pixel
 spirit
