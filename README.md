@@ -1,3 +1,5 @@
+PR 4ND Y0U G4Y
+
 # Smoke 'Em Out Struggle Mod
 
 This is the repository for the Friday Night Funkin' Mod "Smoke 'Em Out Struggle" by Rageminer & atsuover.
