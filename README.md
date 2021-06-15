@@ -10,4 +10,4 @@ This is the modified source code from the mod, you're able to download it and pe
 
 atsuover - https://www.youtube.com/user/EnergeticShadow
 
-Rageminer - https://www.youtube.com/channel/UC-iOE2zjbfescNWEgfxL9hw`
+Rageminer - https://www.youtube.com/channel/UC-iOE2zjbfescNWEgfxL9hw
