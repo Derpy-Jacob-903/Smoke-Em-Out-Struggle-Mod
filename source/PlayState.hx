@@ -214,7 +214,7 @@ class PlayState extends MusicBeatState
 			case 'senpai-angry':
 				iconRPC = 'senpai';
 			case 'senpai-pixel':
-				iconRPC = 'senpai-left'
+				iconRPC = 'senpai-left';
 			case 'monster-christmas':
 				iconRPC = 'monster';
 			case 'mom-car':
