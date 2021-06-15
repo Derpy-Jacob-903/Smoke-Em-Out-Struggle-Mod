@@ -473,7 +473,7 @@ class PlayState extends MusicBeatState
 						  add(corpse);
 
 					}
-		          case 'fading | dip':
+		          case 'fading' | 'dip':
 		          {
 		                  defaultCamZoom = 0.9;
 						  curStage = 'garAlleyDip';
