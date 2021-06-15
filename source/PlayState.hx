@@ -712,9 +712,8 @@ class PlayState extends MusicBeatState
 				dad.y += 360;
 				camPos.set(dad.getGraphicMidpoint().x + 300, dad.getGraphicMidpoint().y);
 			case 'senpai-left':
-				dad.x += 150;
+				dad.x += 0;
 				dad.y += 360;
-				camPos.set(dad.getGraphicMidpoint().x + -300, dad.getGraphicMidpoint().y);
 			case 'senpai-pixel':
 				dad.x += 150;
 				dad.y += 360;
