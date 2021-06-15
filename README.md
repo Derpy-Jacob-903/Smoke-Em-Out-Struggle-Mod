@@ -43,4 +43,4 @@ Rageminer - https://www.youtube.com/channel/UC-iOE2zjbfescNWEgfxL9hw
 ### Kade Engine*
 - [KadeDeveloper](https://twitter.com/KadeDeveloper) - Maintainer and lead programmer
 - [The contributors](https://github.com/KadeDev/Kade-Engine/graphs/contributors)
-- //*Monika Full Week is built on Kade Engine, this repo is not
+- *Monika Full Week is built on Kade Engine, this repo is not
